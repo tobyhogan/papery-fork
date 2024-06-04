@@ -13,6 +13,7 @@ import { CONS_PATH_HOME } from "../../../common/constants";
 import useEntrySearchStore from "../../store/entry/entrySearchStore";
 import { PageTitle, PageWrapper } from "../wrappers/PageShell";
 
+
 export default function TagsPage() {
   const navigate = useNavigate();
   // store
